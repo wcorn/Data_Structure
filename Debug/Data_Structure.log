@@ -1,2 +1,2 @@
-﻿  소스.c
-C:\Users\Administrator\C\Data_Structure\소스.c(3,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+﻿  Lab1-2.c
+  Data_Structure.vcxproj -> C:\Users\Administrator\C\Data_Structure\Debug\Data_Structure.exe
