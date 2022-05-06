@@ -90,7 +90,7 @@
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
-      <SubSystem>Console</SubSystem>
+      <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
@@ -139,9 +139,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="avl_tree.c" />
     <ClCompile Include="Lab1-1.c" />
     <ClCompile Include="Lab1-2.c" />
+    <ClCompile Include="Operating_System3.c" />
+    <ClCompile Include="PHW2-1.c" />
+    <ClCompile Include="PHW2-2.c" />
+    <ClCompile Include="WHW2-1.c" />
     <ClCompile Include="소스.c" />
+    <ClCompile Include="소스2.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="play.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -24,5 +24,28 @@
     <ClCompile Include="Lab1-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PHW2-1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PHW2-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WHW2-1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Operating_System3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="avl_tree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="play.c">
+      <Filter>소스 파일</Filter>
+    </None>
   </ItemGroup>
 </Project>
